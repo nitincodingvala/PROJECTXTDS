@@ -12,6 +12,7 @@ const resetBtn  = document.getElementById('resetBtn');
 
 const EDGE_PAD  = 14;   
 const NEAR_MISS = 48;   
+
 const SAMPLES   = 16;  
 
 let trapArmed        = false;          
