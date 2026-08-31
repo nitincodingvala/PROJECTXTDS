@@ -1,1 +1,0 @@
-console.log("NSUT Campus Cards are working!");
